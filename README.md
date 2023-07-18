@@ -13,5 +13,5 @@ Add a scheme for InfluxDB to make this just work OOB.
 ## Grafana Database
 Inside the `grafana-dashboard` folder is a JSON config file as a jumping off point. It should look like this:
 
-![Grafana Dashboard]('https://github.com/FunkeDope/airgradient-pre-soldered-4.2-influxdb/blob/main/grafana-dashboard/dash.png?raw=true')
+![Grafana Dashboard]('grafana-dashboard/dash.png?raw=true')
 
