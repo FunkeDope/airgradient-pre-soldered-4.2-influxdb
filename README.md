@@ -8,9 +8,9 @@ Just update the variables:
 You will also need to update `lineProtocol` to match your system.
 
 **TODO:**
-Add a scheme for InfluxDB to make this just work OOB.
+Add a schema for InfluxDB to make this just work OOB.
 
-## Grafana Database
+## Grafana Dashboard
 Inside the `grafana-dashboard` folder is a JSON config file as a jumping off point. It should look like this:
 
 ![Grafana Dashboard](grafana-dashboard/dash.png?raw=true)
